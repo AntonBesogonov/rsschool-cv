@@ -14,4 +14,4 @@ HTML, CSS, javascript in the future, angulart in the future
 ***
 + 2011-2015-Tchaikovsky technical school of industrial technologies and management. Specialty: construction and operation of gas and oil pipelines and gas and oil storage facilities"
 + 2015-2019-Udmurt state University. Specialty: Finance and credit
-+ 2020 - htmlbook.ru, frucicide.ru, learn.javascript.ru )
++ 2020 - htmlbook.ru, frucicide.ru, learn.javascript.ru ))
